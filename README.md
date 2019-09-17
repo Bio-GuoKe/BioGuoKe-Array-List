@@ -19,6 +19,7 @@ ASA-CHIA芯片manifest文件, 链接: https://pan.baidu.com/s/1hGeJU29JnnRnenPCv
 
 ASA-CHIA芯片注释文件, 链接: https://pan.baidu.com/s/1dTXbjkOabWpDf68EK_RXWQ 提取码: 7f9d
 
+
 ASAMD芯片(参考基因组GRCH37)
 
 ASAMD芯片demo数据（10 samples）, 链接: https://pan.baidu.com/s/1zvVm7_z27Jg_g54qEP9oHg 提取码: re5i
@@ -27,6 +28,7 @@ ASAMD芯片manifest文件, 链接: https://pan.baidu.com/s/1VuUhzFPQgQn3lv4LO8iQ
 
 ASAMD芯片注释文件, 链接: https://pan.baidu.com/s/1ZWcCzAvQEr09xESJYs0voA 提取码: ppxi
 
+
 GSAMD2.0芯片（参考基因组GRCH37）
 
 GSAMD2.0芯片demo数据（10 samples）, 链接: https://pan.baidu.com/s/1ffal59g9-CIWoKsNKj9qlQ 提取码: dz6b
@@ -34,6 +36,7 @@ GSAMD2.0芯片demo数据（10 samples）, 链接: https://pan.baidu.com/s/1ffal5
 GSAMD2.0芯片manifest文件, 链接: https://pan.baidu.com/s/10y-p_spwGynasU77p-JWbQ 提取码: cixp
 
 GSAMD2.0芯片注释文件, 链接: https://pan.baidu.com/s/11tV2HJipiJxKuGpUYBElFg 提取码: r5g8
+
 
 Omni2.5芯片（参考基因组GRCH37）
 
